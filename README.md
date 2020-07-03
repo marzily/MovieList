@@ -1,2 +1,2 @@
-# Movie List
+# movie list
 save movies to watch
